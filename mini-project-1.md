@@ -161,7 +161,10 @@ understand your data.
 
 <!-------------------------- Start your work below ---------------------------->
 
-1: cancer_sample 2: flow_sample 3: steam_games 4: vancouver_trees
+1: cancer_sample \
+2: flow_sample \
+3: steam_games \
+4: vancouver_trees
 
 <!----------------------------------------------------------------------------->
 

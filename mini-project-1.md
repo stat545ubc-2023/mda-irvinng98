@@ -477,7 +477,7 @@ ggplot(flow_sample, aes(x=month)) +
 
     ## Warning: Removed 2 rows containing non-finite values (`stat_bin()`).
 
-![](mini-project-1_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](figures/unnamed-chunk-5-1.png)<!-- -->
 
 ``` r
 ######### Task 2: Filter observations in your data according to your own criteria #########
@@ -513,7 +513,7 @@ ggplot(missing_data_df, aes(x = variable, y = count)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
-![](mini-project-1_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](figures/unnamed-chunk-7-1.png)<!-- -->
 
 ``` r
 ######### Task 4: Explore the relationship between 2 variables in a plot #########
@@ -527,7 +527,7 @@ ggplot(filtered_df, aes(x=year, y=flow)) +
   scale_y_continuous(breaks = seq(min(100), max(500), by = 50))
 ```
 
-![](mini-project-1_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](figures/unnamed-chunk-8-1.png)<!-- -->
 
 <!----------------------------------------------------------------------------->
 

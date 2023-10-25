@@ -6,5 +6,8 @@ This is a repository containing the mini data analysis project for UBC's STAT545
 
 # Contents of this Repository:
 * Figures: Folder containing the figures of the markdown document
-* mini-project-1.Rmd: The Rmarkdown file of the analysis
-* mini-project-1.md: The knitted markdown file of the analysis
+* mini-project-1.Rmd: The Rmarkdown file of the first mini project
+* mini-project-1.md: The knitted markdown file of the first mini project
+* mini-project-2.Rmd: The Rmarkdown file for the second mini project
+* mini-project-2.md: The knitted markdown file of the second mini project
+* output: The folder containing the summary table from Task 1 of the second mini project and the RDF file of the model object from task 2 of the second mini project

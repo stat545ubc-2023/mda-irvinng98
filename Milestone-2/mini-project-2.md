@@ -206,7 +206,7 @@ print(plot1)
 
     ## Warning: Removed 2 rows containing missing values (`geom_point()`).
 
-![](mini-project-2_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](figures/unnamed-chunk-2-1.png)<!-- -->
 
 ``` r
 # For Question 2: I Chose to do task 2 and 8
@@ -249,7 +249,7 @@ plot2 <- ggplot(result2, aes(x = year)) +
 print(plot2)
 ```
 
-![](mini-project-2_files/figure-gfm/unnamed-chunk-2-2.png)<!-- -->
+![](figures/unnamed-chunk-2-2.png)<!-- -->
 
 ``` r
 # For Question 3: I chose to do task 1 and 8
@@ -291,7 +291,7 @@ plot3 <- ggplot(result3, aes(x = year)) +
 print(plot3)
 ```
 
-![](mini-project-2_files/figure-gfm/unnamed-chunk-2-3.png)<!-- -->
+![](figures/unnamed-chunk-2-3.png)<!-- -->
 
 ``` r
 # For Question 4: I chose to do task 2 and 8
@@ -330,7 +330,7 @@ plot4 <- ggplot(result4, aes(x = year)) +
 print(plot4)
 ```
 
-![](mini-project-2_files/figure-gfm/unnamed-chunk-2-4.png)<!-- -->
+![](figures/unnamed-chunk-2-4.png)<!-- -->
 
 <!----------------------------------------------------------------------------->
 

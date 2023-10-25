@@ -12,4 +12,4 @@ This is a repository containing the mini data analysis project for UBC's STAT545
 * Milestone 2: Folder containing everything pertaining to the mini data analysis milestone 2. Within it includes:
   * mini-project-2.Rmd: The Rmarkdown file for the second mini project
   * mini-project-2.md: The knitted markdown file of the second mini project
-  * output: The folder containing the summary table from Task 1 of the second mini project and the RDF file of the model object from task 2 of the second mini project
+* output: The folder containing the summary table from Task 1 of the second mini project and the RDF file of the model object from task 2 of the second mini project
